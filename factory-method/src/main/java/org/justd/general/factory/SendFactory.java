@@ -17,6 +17,7 @@ public class SendFactory {
         }else if ("sms".equals(type)){
             return new SmsSender();
         }else {
+
             System.out.println("type is error\n 不能正确创建对象，空指针异常");
             return null;
         }
