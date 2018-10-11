@@ -1,6 +1,6 @@
-package org.justd.general.impl;
+package org.justd.Factory.general.factory.impl;
 
-import org.justd.general.Sender;
+import org.justd.Factory.general.factory.Sender;
 
 /**
  * @author: zhangjd

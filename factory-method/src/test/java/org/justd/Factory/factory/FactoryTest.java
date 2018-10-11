@@ -1,6 +1,7 @@
-package org.justd.general.factory;
+package org.justd.Factory.factory;
 
-import org.justd.general.Sender;
+import org.justd.Factory.general.factory.Sender;
+import org.justd.Factory.general.factory.SendFactory;
 
 /**
  * @author: zhangjd
@@ -10,7 +11,7 @@ import org.justd.general.Sender;
 public class FactoryTest {
     public static void main(String[] args) {
         SendFactory factory = new SendFactory();
-        Sender sender = factory.produce("22");
+        Sender sender = factory.produce("mail");
             sender.send();
     }
 }

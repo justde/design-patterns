@@ -1,9 +1,8 @@
-package org.justd.general.factory;
+package org.justd.Factory.general.factory;
 
 
-import org.justd.general.Sender;
-import org.justd.general.impl.MailSender;
-import org.justd.general.impl.SmsSender;
+import org.justd.Factory.general.factory.impl.MailSender;
+import org.justd.Factory.general.factory.impl.SmsSender;
 
 /**
  * @author: zhangjd
