@@ -1,6 +1,6 @@
-package org.justd.Factory.multiple.sender.impl;
+package org.justd.factory.multiple.sender.impl;
 
-import org.justd.Factory.multiple.sender.Sender;
+import org.justd.factory.multiple.sender.Sender;
 
 /**
  * @author: zhangjd

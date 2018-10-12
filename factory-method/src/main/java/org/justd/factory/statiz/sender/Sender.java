@@ -1,4 +1,4 @@
-package org.justd.Factory.statiz.sender;
+package org.justd.factory.statiz.sender;
 
 /**
  * @author: zhangjd

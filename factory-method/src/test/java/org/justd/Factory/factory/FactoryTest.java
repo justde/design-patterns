@@ -1,7 +1,7 @@
 package org.justd.Factory.factory;
 
-import org.justd.Factory.general.factory.Sender;
-import org.justd.Factory.general.factory.SendFactory;
+import org.justd.factory.general.factory.Sender;
+import org.justd.factory.general.factory.SendFactory;
 
 /**
  * @author: zhangjd

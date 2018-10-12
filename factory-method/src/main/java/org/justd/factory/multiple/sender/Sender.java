@@ -1,4 +1,4 @@
-package org.justd.Factory.multiple.sender;
+package org.justd.factory.multiple.sender;
 
 /**
  * @author: zhangjd

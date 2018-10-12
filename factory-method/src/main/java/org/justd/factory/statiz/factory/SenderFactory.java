@@ -1,8 +1,8 @@
-package org.justd.Factory.statiz.factory;
+package org.justd.factory.statiz.factory;
 
-import org.justd.Factory.statiz.sender.Sender;
-import org.justd.Factory.statiz.sender.impl.MailSender;
-import org.justd.Factory.statiz.sender.impl.SmsSender;
+import org.justd.factory.statiz.sender.Sender;
+import org.justd.factory.statiz.sender.impl.MailSender;
+import org.justd.factory.statiz.sender.impl.SmsSender;
 
 /**
  * @author: zhangjd

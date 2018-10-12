@@ -1,6 +1,6 @@
-package org.justd.Factory.statiz.sender.impl;
+package org.justd.factory.statiz.sender.impl;
 
-import org.justd.Factory.statiz.sender.Sender;
+import org.justd.factory.statiz.sender.Sender;
 
 /**
  * @author: zhangjd

@@ -1,4 +1,4 @@
-package org.justd.Factory.general.factory;
+package org.justd.factory.general.factory;
 
 /**
  * @author: zhangjd
