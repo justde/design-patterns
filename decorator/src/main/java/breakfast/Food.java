@@ -1,13 +1,13 @@
-package cofferbar;
+package breakfast;
 
-public abstract class Drink {
+public abstract class Food {
     public String description = "";
     private int price = 0;
 
     public abstract int cost();
 
     public String getDescription() {
-        return description + "--" + this.getPrice();
+        return description + "---" + this.getPrice();
     }
 
     public void setDescription(String description) {
