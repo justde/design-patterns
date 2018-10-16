@@ -13,7 +13,7 @@ import breakfast.decorator.Sausage;
  */
 public class BreakfastTest {
     public static void main(String[] args) {
-        JianBingGuoZi jianBingGuoZi = new JianBingGuoZi();
+        Food jianBingGuoZi = new JianBingGuoZi();
         System.out.println("order1 desc: "+jianBingGuoZi.getDescription());
         System.out.println("order1 price "+jianBingGuoZi.cost());
 

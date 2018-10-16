@@ -17,6 +17,6 @@ public class Decorator extends Food {
 
     @Override
     public String getDescription() {
-        return super.getDescription()+" 配料： \n"+this.food.getDescription();
+        return super.getDescription()+" \n "+this.food.getDescription();
     }
 }
