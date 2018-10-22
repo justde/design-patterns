@@ -1,4 +1,4 @@
-package abstractFactory;
+package simplefactory1;
 
 import generally.pizza.Pizza;
 

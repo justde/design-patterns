@@ -1,7 +1,7 @@
-package abstractFactory;
+package simplefactory1;
 
-import abstractFactory.nystyle.NyStyleCheesePizza;
-import abstractFactory.nystyle.NyStyleVeggiePizza;
+import simplefactory1.nystyle.NyStyleCheesePizza;
+import simplefactory1.nystyle.NyStyleVeggiePizza;
 import generally.pizza.Pizza;
 
 /**

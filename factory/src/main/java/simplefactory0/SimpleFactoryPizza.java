@@ -1,4 +1,4 @@
-package simplefactory;
+package simplefactory0;
 
 import generally.pizza.BeefPizza;
 import generally.pizza.CheesePizza;

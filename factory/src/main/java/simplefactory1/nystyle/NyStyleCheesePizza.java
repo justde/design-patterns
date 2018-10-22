@@ -1,4 +1,4 @@
-package abstractFactory.nystyle;
+package simplefactory1.nystyle;
 
 import generally.pizza.Pizza;
 
@@ -10,6 +10,6 @@ import generally.pizza.Pizza;
 public class NyStyleCheesePizza extends Pizza {
     @Override
     public void prepare() {
-        super.setname("NyStyleCheesePizza");
+        super.setname("Preparing NyStyleCheesePizza");
     }
 }
