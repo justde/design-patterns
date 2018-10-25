@@ -13,7 +13,7 @@ public class test {
     public static void main(String[] args) {
         NyStyleOrderPizza order = new NyStyleOrderPizza();
         order.orderPizza("cheese");
-        System.out.println("-------");
+        System.out.println("--------");
         order.orderPizza("veggie");
     }
 }
